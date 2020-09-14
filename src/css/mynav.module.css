@@ -1,0 +1,54 @@
+.container{
+
+ 
+    display: flex;
+  
+    width: 100%;
+  
+
+}
+
+
+.navContainer
+{
+
+    display: flex;
+    flex:1;
+ 
+    
+}
+
+.linkContainer{
+
+
+     padding-right: 100px;
+     color: white;
+     justify-content: center;
+    
+}
+.aboutLink{
+
+ 
+
+color: white;
+padding-left: 20px;
+align-self: center;
+
+}
+.blogLink{
+
+color: white;
+padding-left: 20px;
+align-self: center;
+}
+.contactLink{
+
+    color: white;
+    
+    padding-left: 20px;
+    align-self: center;
+}
+.navTitle
+{
+    color: white;
+}

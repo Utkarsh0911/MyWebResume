@@ -1,0 +1,7 @@
+.image
+{
+    display: flex;
+    flex:1;
+    object-fit: cover;
+    
+}
